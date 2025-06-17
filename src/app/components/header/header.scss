@@ -1,0 +1,14 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333333;
+  color: #ffffff;
+  padding-inline: 16px;
+  // padding-block: 30px;
+  cursor: pointer;
+
+  li {
+    list-style-type: none;
+  }
+}
